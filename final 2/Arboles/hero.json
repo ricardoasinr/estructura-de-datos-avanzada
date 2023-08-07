@@ -1,0 +1,246 @@
+[
+  
+  {
+    "name": "Spider-Man",
+    "hero": true
+  },
+  {
+    "name": "Iron Man",
+    "hero": true
+  },
+  {
+    "name": "Captain America",
+    "hero": true
+  },
+  {
+    "name": "Thor",
+    "hero": true
+  },
+  {
+    "name": "Hulk",
+    "hero": true
+  },
+  {
+    "name": "Black Widow",
+    "hero": true
+  },
+  {
+    "name": "Hawkeye",
+    "hero": true
+  },
+  {
+    "name": "Vision",
+    "hero": true
+  },
+  {
+    "name": "Scarlet Witch",
+    "hero": true
+  },
+  {
+    "name": "Doctor Strange",
+    "hero": true
+  },
+ 
+
+  {
+    "name": "Red Skull",
+    "hero": false
+  },
+ 
+
+  {
+    "name": "Venom",
+    "hero": false
+  },
+  {
+    "name": "Wolverine",
+    "hero": true
+  },
+  {
+    "name": "Daredevil",
+    "hero": true
+  },
+  {
+    "name": "The Fantastic Four",
+    "hero": true
+  },
+  {
+    "name": "The X-Men",
+    "hero": true
+  },
+  {
+    "name": "The Avengers",
+    "hero": true
+  },
+  {
+    "name": "The Guardians of the Galaxy",
+    "hero": true
+  },
+  {
+    "name": "Deadpool",
+    "hero": true
+  },
+  {
+    "name": "The Punisher",
+    "hero": false
+  },
+  {
+    "name": "Mysterio",
+    "hero": false
+  },
+  {
+    "name": "Doctor Octopus",
+    "hero": false
+  },
+  {
+    "name": "Green Goblin",
+    "hero": false
+  },
+  {
+    "name": "Loki",
+    "hero": false
+  },
+  {
+    "name": "Thanos",
+    "hero": false
+  },
+  {
+    "name": "Cyclops",
+    "hero": true
+  },
+  {
+    "name": "Jean Grey",
+    "hero": true
+  },
+  {
+    "name": "Storm",
+    "hero": true
+  },
+  {
+    "name": "Wolverine",
+    "hero": true
+  },
+  {
+    "name": "Nightcrawler",
+    "hero": true
+  },
+  {
+    "name": "Beast",
+    "hero": true
+  },
+  {
+    "name": "Iceman",
+    "hero": true
+  },
+  {
+    "name": "Colossus",
+    "hero": true
+  },
+  {
+    "name": "Gambit",
+    "hero": true
+  },
+  {
+    "name": "Jubilee",
+    "hero": true
+  },
+  {
+    "name": "Magneto",
+    "hero": false
+  },
+  {
+    "name": "Mystique",
+    "hero": false
+  },
+  {
+    "name": "Sabretooth",
+    "hero": false
+  },
+  {
+    "name": "Apocalypse",
+    "hero": false
+  },
+  {
+    "name": "Dr. Doom",
+    "hero": false
+  },
+  {
+    "name": "Kraven the Hunter",
+    "hero": false
+  },
+  {
+    "name": "Whiplash",
+    "hero": false
+  },
+  {
+    "name": "Ultron",
+    "hero": false
+  },
+  {
+    "name": "Drax the Destroyer",
+    "hero": true
+  },
+  {
+    "name": "Groot",
+    "hero": true
+  },
+  {
+    "name": "Rocket Raccoon",
+    "hero": true
+  },
+  {
+    "name": "Star-Lord",
+    "hero": true
+  },
+  {
+    "name": "Moon Knight",
+    "hero": true
+  },
+  {
+    "name": "Ms. Marvel",
+    "hero": true
+  },
+  {
+    "name": "Shang-Chi",
+    "hero": true
+  },
+  {
+    "name": "Elektra",
+    "hero": false
+  },
+  {
+    "name": "Bullseye",
+    "hero": false
+  },
+  {
+    "name": "The Mandarin",
+    "hero": false
+  },
+  {
+    "name": "The Wrecker",
+    "hero": false
+  },
+  {
+    "name": "Absorbing Man",
+    "hero": false
+  },
+  {
+    "name": "Enchantress",
+    "hero": false
+  },
+  {
+    "name": "Malekith",
+    "hero": false
+  },
+  {
+    "name": "Kang the Conqueror",
+    "hero": false
+  },
+  {
+    "name": "Galactus",
+    "hero": false
+  }
+  
+  
+  
+]

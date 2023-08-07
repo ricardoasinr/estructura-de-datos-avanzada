@@ -1,0 +1,49 @@
+Poblacion total 
+Chuquisaca 
+Hombres total: 
+383940 
+Mujeres total: 
+364500 
+La Paz 
+ 
+Hombres total: 
+499122 
+Mujeres total: 
+364500 
+ 
+Cochabamba 
+Hombres total: 
+383940 
+Mujeres total: 
+364500 
+Oruro 
+Hombres total: 
+383940 
+Mujeres total: 
+364500 
+Potosi 
+Hombres total: 
+383940 
+Mujeres total: 
+546750 
+Tarija 
+Hombres total: 
+575910 
+Mujeres total: 
+546750 
+Santa Cruz
+Hombres total: 
+575910 
+Mujeres total: 
+364500 
+Beni 
+Hombres total: 
+383940 
+Mujeres total: 
+364500 
+Pando 
+Hombres total: 
+383940 
+Mujeres total: 
+364500 
+ 
